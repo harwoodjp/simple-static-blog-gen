@@ -1,0 +1,25 @@
+{
+  "name": "templ",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.5.1",
+    "html-loader": "^0.4.5",
+    "webpack": "^2.6.1"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.4",
+    "markdown-loader": "^2.0.0",
+    "path": "^0.12.7",
+    "showdown": "^1.6.4"
+  }
+}
